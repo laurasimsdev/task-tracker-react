@@ -2,18 +2,18 @@
   "tasks": [
     {
       "id": 2,
-      "text": "Finish React Course",
+      "text": "Finish Project",
       "day": "October 6th",
       "reminder": true
     },
     {
       "id": 3,
-      "text": "Call with recruiter",
+      "text": "Meeting",
       "day": "October 7th",
       "reminder": false
     },
     {
-      "text": "Turn in Project",
+      "text": "Gather requirements for next project",
       "day": "today!",
       "reminder": true,
       "id": 4
